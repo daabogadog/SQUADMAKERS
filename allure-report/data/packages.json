@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "src.test.resources.feature.Test_feature.Automatizacion de escenarios Jikan API",
+    "children" : [ {
+      "name" : "Test Automatizado",
+      "uid" : "b4343755a13b55ea",
+      "parentUid" : "21697e3365cb89506e09cd14e00edacb",
+      "status" : "failed",
+      "time" : {
+        "start" : 1631732483875,
+        "stop" : 1631732519688,
+        "duration" : 35813
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "true", "https://", "naruto", "1500" ]
+    }, {
+      "name" : "Inicio Git",
+      "uid" : "2a0a7bf9af7aee63",
+      "parentUid" : "21697e3365cb89506e09cd14e00edacb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631732520077,
+        "stop" : 1631732566528,
+        "duration" : 46451
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Perez", "thainer" ]
+    } ],
+    "uid" : "src.test.resources.feature.Test_feature.Automatizacion de escenarios Jikan API"
+  } ]
+}

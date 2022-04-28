@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BPRO15",
+    "children" : [ {
+      "name" : "24272@BPRO15.main(1)",
+      "children" : [ {
+        "name" : "Test Automatizado",
+        "uid" : "b4343755a13b55ea",
+        "parentUid" : "7dff40ce3413a4707cd693da5527cf1e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1631732483875,
+          "stop" : 1631732519688,
+          "duration" : 35813
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "true", "https://", "naruto", "1500" ]
+      }, {
+        "name" : "Inicio Git",
+        "uid" : "2a0a7bf9af7aee63",
+        "parentUid" : "7dff40ce3413a4707cd693da5527cf1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631732520077,
+          "stop" : 1631732566528,
+          "duration" : 46451
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Perez", "thainer" ]
+      } ],
+      "uid" : "7dff40ce3413a4707cd693da5527cf1e"
+    } ],
+    "uid" : "303b96917e19453685f22300ba6f8fbf"
+  } ]
+}

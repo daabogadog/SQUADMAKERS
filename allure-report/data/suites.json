@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Automatizacion de escenarios Jikan API",
+    "children" : [ {
+      "name" : "Test Automatizado",
+      "uid" : "b4343755a13b55ea",
+      "parentUid" : "64a2c7ef9289659166ab178271444cb8",
+      "status" : "failed",
+      "time" : {
+        "start" : 1631732483875,
+        "stop" : 1631732519688,
+        "duration" : 35813
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "true", "https://", "naruto", "1500" ]
+    }, {
+      "name" : "Inicio Git",
+      "uid" : "2a0a7bf9af7aee63",
+      "parentUid" : "64a2c7ef9289659166ab178271444cb8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631732520077,
+        "stop" : 1631732566528,
+        "duration" : 46451
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Perez", "thainer" ]
+    } ],
+    "uid" : "64a2c7ef9289659166ab178271444cb8"
+  } ]
+}

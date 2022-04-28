@@ -1,0 +1,43 @@
+{
+  "f02c87e4b79587313f5e9d4a0e3ab34d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a0a7bf9af7aee63",
+      "reportUrl" : "http://localhost:8080/job/Ejecucion%20Prueba/9/allure/#testresult/2a0a7bf9af7aee63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631732520077,
+        "stop" : 1631732566528,
+        "duration" : 46451
+      }
+    } ]
+  },
+  "dc4cc02134800810018c90336c420706" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4343755a13b55ea",
+      "reportUrl" : "http://localhost:8080/job/Ejecucion%20Prueba/9/allure/#testresult/b4343755a13b55ea",
+      "status" : "failed",
+      "statusDetails" : "####### ERROR PruebaAccion - validarRangoTiempo() ##########java.lang.IndexOutOfBoundsException: Index: 1, Size: 1",
+      "time" : {
+        "start" : 1631732483875,
+        "stop" : 1631732519688,
+        "duration" : 35813
+      }
+    } ]
+  }
+}

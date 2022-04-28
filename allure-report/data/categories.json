@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "####### ERROR PruebaAccion - validarRangoTiempo() ##########java.lang.IndexOutOfBoundsException: Index: 1, Size: 1",
+      "children" : [ {
+        "name" : "Test Automatizado",
+        "uid" : "b4343755a13b55ea",
+        "parentUid" : "33e70df7f37dc583415b364726f4dbaf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1631732483875,
+          "stop" : 1631732519688,
+          "duration" : 35813
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "true", "https://", "naruto", "1500" ]
+      } ],
+      "uid" : "33e70df7f37dc583415b364726f4dbaf"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

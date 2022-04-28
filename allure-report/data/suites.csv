@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Sep 15 14:01:23 COT 2021","Wed Sep 15 14:01:59 COT 2021","35813","","Automatizacion de escenarios Jikan API","","Test Automatizado","","Test Automatizado",""
+"passed","Wed Sep 15 14:02:00 COT 2021","Wed Sep 15 14:02:46 COT 2021","46451","","Automatizacion de escenarios Jikan API","","Inicio Git","","Inicio Git",""
